@@ -24,4 +24,3 @@
 - En la línea 21 del código, el valor de la función `sleep()` se puede aumentar para que el usuario pueda visualizar los datos por más tiempo.
 - Si en el ejecutable no se ingresan números, el programa puede fallar.
 - Espero que este README sea útil. En caso de dudas, no dudes en contactarme.
-
