@@ -14,7 +14,7 @@
 ## Funcionamiento
 ![](./media/Input1.png)
 #### Primero, se solicita un valor numérico al usuario.
-![](/media/Input2.png)
+![](./media/Input2.png)
 #### Después de ingresarlo, se solicita un segundo valor.
 ![](./media/return.png)
 #### Finalmente, se imprimen en pantalla el resultado de la suma y el producto de ambos números.
